@@ -1,2 +1,3 @@
-# css-rep
-CSS repozitář pro skupinu Hanabi2
+# CSS repozitář pro skupinu Hanabi
+
+Linkování font awesome
