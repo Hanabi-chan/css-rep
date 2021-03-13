@@ -1,4 +1,4 @@
-# CSS repozitář pro skupinu Hanabi
+# Fonty a ikony
 
 Linkování font awesome
 
