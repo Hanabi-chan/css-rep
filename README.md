@@ -2,4 +2,4 @@
 
 Linkování font awesome
 
-Seznam ikont z font awesome, co používám na webu
+Ikony z font awesome
